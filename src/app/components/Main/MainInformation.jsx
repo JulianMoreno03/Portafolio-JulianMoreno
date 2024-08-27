@@ -19,7 +19,7 @@ export default function MainInformation(){
 
             <article className=" flex flex-col justify-evenly h-full text-white">
             <h1 className="font-bold text-2xl underline  text-orange-500">SOBRE MI</h1>
-            <h1 className="font-bold text-2xl">ME LLAMO JULIAN MORENO</h1>
+            <h1 className="font-bold text-2xl"> JULIAN MORENO</h1>
             <p className="text-gray-300 w-[80%]">Programador Jr FrontEnd, bal bla bla bla Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, laudantium?</p>
             </article>  
         </section>
